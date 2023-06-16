@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deanbilledo
 - 👀 I’m interested in ... playing dota 2
-- 🌱 I’m currently learning ... C++ and to tell you the truth, its hard and im contemplating to shift course.
+- 🌱 I’m currently learning ... C++ 
 - 💞️ I’m looking to collaborate on ... something that makes money.
 - 📫 How to reach me ... by chanting a specific ritual at excactly 3 am in the morning and offering a chicken egg that has expired for over a deccade.
 
